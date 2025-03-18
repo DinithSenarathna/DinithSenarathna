@@ -27,3 +27,11 @@
 - 👨‍💻 Life Hack: Learn new tech and share what you have learned :tada:
 
 - ⚡ Fun fact: I waste most of my time playing games
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DinithSenarathna&theme=tokyonight" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DinithSenarathna&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
