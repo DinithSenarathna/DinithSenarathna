@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on `Something Intresting`.
 
-- 🌱 I’m currently learning `FULL Stack`
+- 🌱 I’m currently learning `FULL Stack & Flutter`
 
 - 👯 I’m looking to collaborate for `Dev Projects`
 
